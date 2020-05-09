@@ -61,7 +61,7 @@ After cleaning it, we can finally tuning the learning rate, only the learning ra
 
 As it turns out the result is pretty good, testing data has a 95% accuracy, which is exacly what I expected, these are three easy identified planes, not Mark Wahlberg and Matt Damon.
 
-![Confusion Matrix](https://imgur.com/bM70UHn)
+![Confusion Matrix](https://i.imgur.com/bM70UHn.png)
 
 I try to use other pictures, actually three pictures, and it identify them correctly, just like clockwork.
 
